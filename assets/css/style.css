@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #4a4a4a!important;
+}
+
+.form {
+    width: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: #303030!important;
+}
+
+.input-color-dark {
+    background: #4a4a4a!important;
+    color: white!important;
+}

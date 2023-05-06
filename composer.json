@@ -1,0 +1,17 @@
+{
+    "name": "hondn/upload-file-php-aws-s3",
+    "description": "Upload de arquivo em php com aws s3",
+    "autoload": {
+        "psr-4": {
+            "Hondn\\UploadFilePhpAwsS3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Higor Gaspar"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.269"
+    }
+}
